@@ -1,5 +1,6 @@
 # Billing.py
 This code is a simple Customer Billing System designed in Python to help users calculate the total bill for each customer in a shopping scenario. It allows the cashier to input a customer's name and phone number, then adds multiple items to the bill based on their price and quantity.
+
 Key Features:
 Loop Structure for Multiple Customers: The outer while loop enables handling multiple customers consecutively.
 Itemized Billing: The inner loop allows the cashier to enter multiple items for a single customer, calculating the cost by multiplying the price and quantity of each item.
